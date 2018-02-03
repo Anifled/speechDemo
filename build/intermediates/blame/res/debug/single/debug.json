@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/drawable_list_bg_color.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/drawable/list_bg_color.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/drawable_setting.png.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/drawable/setting.png"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/xml_ise_settings.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/xml/ise_settings.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/xml_iat_setting.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/xml/iat_setting.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/drawable_setting_p.png.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/drawable/setting_p.png"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/layout_iatdemo.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/layout/iatdemo.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/layout_list_items.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/layout/list_items.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/layout_nlpdemo.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/layout/nlpdemo.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/layout_isrdemo.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/layout/isrdemo.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/layout_ttsdemo.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/layout/ttsdemo.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/layout_title.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/layout/title.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/xml_tts_setting.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/xml/tts_setting.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/layout_isedemo.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/layout/isedemo.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/layout_understander.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/layout/understander.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/drawable_main_setting_btn_np.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/drawable/main_setting_btn_np.xml"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/kevin/桌面/speechDemo/build/intermediates/res/merged/debug/xml_understand_setting.xml.flat",
+        "source": "/home/kevin/桌面/speechDemo/src/main/res/xml/understand_setting.xml"
+    }
+]
